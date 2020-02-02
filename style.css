@@ -1,0 +1,15 @@
+.card-img-top-headshot {
+    width: 150px;
+    height: 150px;
+    align-self: center;
+}
+
+body {
+    background-color: darkturquoise;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: radial-gradient();
+
+}
