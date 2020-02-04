@@ -1,15 +1,38 @@
-.card-img-top-headshot {
-    width: 150px;
-    height: 150px;
-    align-self: center;
-}
 
 body {
     background-color: darkturquoise;
 }
 
-.jumbotron {
+.card-img-top-headshot {
+    width: 150px;
+    height: 150px;
+    align-self: center;
+}
+.card-title {
     text-align: center;
-    background-image: radial-gradient();
+    color: indigo;
+}
 
+.card-text {
+    text-align: center;
+}
+
+.btn {
+    align-self: center;
+}
+
+.jumbotron {
+    background-color: darkturquoise;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.my-4 {
+    text-align: center;
 }
